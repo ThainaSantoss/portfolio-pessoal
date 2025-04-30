@@ -14,7 +14,7 @@ export const EXPERIENCES = [
     year: "Mar/2023 – Jul/2024",
     role: "Jovem Aprendiz",
     company: "Braspress Transportes Urgentes",
-    description: `Apoio em avidades administravas, como organização de documentos e atendimento a clientes.`,
+    description: `Apoio em atividades administrativas, como organização de documentos e atendimento a clientes.`,
     technologies: [ "Resolução de Problemas", "Comunicação eficaz", "Gestão de tempo"],
   },
   
@@ -32,14 +32,14 @@ export const PROJECTS = [
     title: "Galeria de Fotos",
     // image: project2,
     description:
-      "que exibe uma galeria interativa de imagens com funcionalidades de slider principal, navegação por miniaturas e um modal de exibição em tela cheia.",
+      "Exibe uma galeria interativa de imagens com funcionalidades de slider principal, navegação por miniaturas e um modal de exibição em tela cheia.",
     technologies: ["Next.js", "TypeScipt", "TailwindCSS"],
   },
   {
     title: "Mind Quiz",
     // image: project3,
     description:
-      "quiz de raciocínio lógico que ajuda os usuários a testarem suas habilidades, oferecendo feedback imediato sobre a porcentagem de acertos.",
+      "Quiz de raciocínio lógico que ajuda os usuários a testarem suas habilidades, oferecendo feedback imediato sobre a porcentagem de acertos.",
     technologies: ["HTML", "CSS", "JavaScript"],
   },
   {
@@ -53,7 +53,7 @@ export const PROJECTS = [
     title: "Weather Forecast",
     // image: project4,
     description:
-      "permite aos usuários obter previsões meteorológicas em tempo real para qualquer cidade. O projeto apresenta uma interface amigável e intuitiva, que muda de cor automaticamente de acordo com o horário do dia.",
+      "Permite aos usuários obter previsões meteorológicas em tempo real para qualquer cidade. O projeto apresenta uma interface amigável e intuitiva, que muda de cor automaticamente de acordo com o horário do dia.",
     technologies: ["HTML", "CSS", "OpenWeather", "JavaScript"],
   },
 ];
