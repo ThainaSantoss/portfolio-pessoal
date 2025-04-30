@@ -59,7 +59,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Recife, Pernambuco",
+  address: "Jaboatão dos Guararapes, Pernambuco",
   phoneNo: "+55 81 97315-6023",
   email: "thainados_santos@hotmail.com",
 };
