@@ -27,6 +27,8 @@ export const PROJECTS = [
     description:
       "Desenvolvimento de uma plataforma web voltada à cultura e educação em Recife,conectando jovens ao patrimônio cultural da cidade e promovendo cidadania digital.",
     technologies: ["React", "JavaScript", "Bootstrap", "Node.js"],
+     githubUrl: "https://github.com/liliansm/desbrave-frontend"
+    
   },
   {
     title: "Galeria de Fotos",
@@ -34,6 +36,7 @@ export const PROJECTS = [
     description:
       "Exibe uma galeria interativa de imagens com funcionalidades de slider principal, navegação por miniaturas e um modal de exibição em tela cheia.",
     technologies: ["Next.js", "TypeScipt", "TailwindCSS"],
+    githubUrl: "https://github.com/ThainaSantoss/Galeria-De-Fotos"
   },
   {
     title: "Mind Quiz",
@@ -41,6 +44,8 @@ export const PROJECTS = [
     description:
       "Quiz de raciocínio lógico que ajuda os usuários a testarem suas habilidades, oferecendo feedback imediato sobre a porcentagem de acertos.",
     technologies: ["HTML", "CSS", "JavaScript"],
+    githubUrl: "https://github.com/ThainaSantoss/project-mind-quiz"
+    
   },
   {
     title: "Projeto Delivery Pizza",
@@ -48,6 +53,7 @@ export const PROJECTS = [
     description:
       "Projeto simples e interativo que permite aos usuários escolherem seus sabores de pizza preferidos e realizar pedidos online.",
     technologies: ["HTML", "CSS", "JavaScript"],
+    githubUrl: "https://github.com/ThainaSantoss/projeto-compra-de-pizza"
   },
   {
     title: "Weather Forecast",
@@ -55,6 +61,8 @@ export const PROJECTS = [
     description:
       "Permite aos usuários obter previsões meteorológicas em tempo real para qualquer cidade. O projeto apresenta uma interface amigável e intuitiva, que muda de cor automaticamente de acordo com o horário do dia.",
     technologies: ["HTML", "CSS", "OpenWeather", "JavaScript"],
+    githubUrl: "https://github.com/ThainaSantoss/weather-forecast"
+
   },
 ];
 
